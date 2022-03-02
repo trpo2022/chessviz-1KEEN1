@@ -1,6 +1,6 @@
 all: hello
 
-hello: main.c
+board: main.c
 	gcc -Wall -o hello main.c
 
 clean:
