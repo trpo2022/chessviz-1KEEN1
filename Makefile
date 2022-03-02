@@ -1,7 +1,7 @@
-all: hello
+all: board
 
 board: main.c
-	gcc -Wall -o hello main.c
+	gcc -Wall -o board main.c
 
 clean:
-	rm -rf *.c hello
+	rm -rf *.c board
