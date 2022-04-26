@@ -1,2 +1,4 @@
+*.a
+*.d
 *.o
-hw-1KEEN1/**/*.txt
+bin/chessviz
